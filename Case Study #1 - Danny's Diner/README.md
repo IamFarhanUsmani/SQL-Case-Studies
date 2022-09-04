@@ -1,13 +1,20 @@
 # 🥘 Case Study #1: Danny's Diner
-![DatawithDanny1](https://user-images.githubusercontent.com/32909839/188326170-2d063e57-4901-4956-95b8-a3fe475a79d2.png)
+<img src="https://user-images.githubusercontent.com/32909839/188326170-2d063e57-4901-4956-95b8-a3fe475a79d2.png" alt="Image" width="500" height="520">
 
 ## Business Talk
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 ## Entity Relationship Diagram
+
 ![DatawithDanny1_1](https://user-images.githubusercontent.com/32909839/188326236-d62ddc7b-6939-4298-84c2-e94406706d1e.png)
 
 ## Case Study Questions
+
+<details>
+<summary>
+Click here to expand!
+</summary>
+
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
